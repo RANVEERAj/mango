@@ -13,7 +13,7 @@ class Stone {
       this.y = y;      
       this.r = r;
       this.body = Bodies.circle(this.x,this.y,(this.r)/3,options);
-      this.image = loadImage("Plucking mangoes/stone.png");
+      this.image = loadImage("stone.png");
       World.add(world, this.body);
     }
     display(){
