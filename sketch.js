@@ -9,7 +9,7 @@ var BGimg;
 
 function preload()
 {
- treeImg = loadImage("tree.png");
+ treeImg = loadImage("tree.png")
  boyImg = loadImage("boy.png");
 }
 
