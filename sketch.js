@@ -9,8 +9,8 @@ var BGimg;
 
 function preload()
 {
- treeImg = loadImage("Plucking mangoes/tree.png");
- boyImg = loadImage("Plucking mangoes/boy.png");
+ treeImg = loadImage("tree.png");
+ boyImg = loadImage("boy.png");
 }
 
 function setup()
